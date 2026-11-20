@@ -1,0 +1,6 @@
+{
+  "name": "MedCue",
+  "description": "Smart medication reminder app with scheduled alerts, adherence tracking, and text-to-speech voice announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

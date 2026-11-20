@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MedCue</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_cabinet">Cabinet</string>
+    <string name="nav_history">History</string>
+    <string name="action_add_medicine">Add Medicine</string>
+    <string name="action_read_schedule">Read Schedule</string>
+    <string name="action_stop_speaking">Stop Voice</string>
+    <string name="action_settings">Voice &amp; Reminder Settings</string>
+    <string name="action_take">Take</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_speak">Speak</string>
+    <string name="empty_schedule_title">Your medicine cabinet is empty</string>
+    <string name="empty_schedule_subtitle">Add your prescriptions or daily supplements with scheduled times and gentle voice announcements.</string>
+    <string name="notification_channel_reminders_name">Medicine Reminders</string>
+    <string name="notification_channel_reminders_desc">Scheduled alerts when it is time to take your medicine</string>
+    <string name="notification_channel_tts_name">Voice Announcements</string>
+    <string name="notification_channel_tts_desc">Spoken text-to-speech announcements for scheduled medicines</string>
+</resources>
